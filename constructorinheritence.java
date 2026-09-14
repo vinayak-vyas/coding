@@ -22,9 +22,6 @@ class base1{
             this.y = y;
         }
     }
-
-
-
 public class constructorinheritence {
     public static void main(String[] args) {
         base1 b = new base1();
